@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okunlolayk
-- 👀 I’m interested in Research Data Analytics
-- 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on Data analytics and visualization
+- 👀 I’m interested in Research and Business Analytics
+- 🌱 I’m currently a junior data analyst and research writer
+- 💞️ I’m looking to collaborate on Business analytics and Data science projects.
 - 📫 How to reach me okunlolayk@gmail.com
 
 <!---
